@@ -1,10 +1,9 @@
 # DDH
-# JPFA
 This is the Tensorflow implementation of paper "Deep Distillation Hashing for Unconstrained Palmprint Recognition". 
 
 Environment
 ---------------
-Tensorflow 1.31.1
+Tensorflow 1.31.1  
 python 3.5
 
 Environment
@@ -16,22 +15,23 @@ Training Model and Predicting
 
 Download the pre-training vgg16.npy (https://mega.nz/file/YU1FWJrA#O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM)
 
-Training:
-
-Trainiing teacher: train_teacher.py
-Training student: train_student.py
-Training DDH: train_DDH.py
-
-Evaluate:
-eval.py
-Draw_DET.py
+Training:  
+  
+Trainiing teacher: train_teacher.py  
+Training student: train_student.py  
+Training DDH: train_DDH.py  
+  
+Evaluate:  
+  
+eval.py  
+Draw_DET.py  
 
 The databases used in the paper can be obtained at
 ---------------
-PolyU multispectical 
-https://www4.comp.polyu.edu.hk/~biometrics/MultispectralPalmprint/MSP.htm
-Tongji
-http://sse.tongji.edu.cn/linzhang/cr3dpalm/cr3dpalm.htm
+PolyU multispectical  
+https://www4.comp.polyu.edu.hk/~biometrics/MultispectralPalmprint/MSP.htm  
+Tongji  
+http://sse.tongji.edu.cn/linzhang/cr3dpalm/cr3dpalm.htm  
 
 
 Citation
