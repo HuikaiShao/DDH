@@ -7,7 +7,8 @@ python 3.5
 
 ## Training Model and Predicting
 
-Download the pre-training vgg16.npy (https://mega.nz/file/YU1FWJrA#O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM)
+Download the pre-training vgg16.npy <br />
+(https://mega.nz/file/YU1FWJrA#O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM)
 
 ### Training:  
   
@@ -22,9 +23,9 @@ Draw_DET.py
 
 ## The databases used
 
-PolyU multispectical  
+PolyU multispectical palmprint database 
 https://www4.comp.polyu.edu.hk/~biometrics/MultispectralPalmprint/MSP.htm  
-Tongji  
+Tongji  palmprint database
 http://sse.tongji.edu.cn/linzhang/cr3dpalm/cr3dpalm.htm  
 
 
