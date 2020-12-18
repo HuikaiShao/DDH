@@ -23,10 +23,10 @@ Draw_DET.py
 
 ## The databases used
 
-PolyU multispectical palmprint database 
-https://www4.comp.polyu.edu.hk/~biometrics/MultispectralPalmprint/MSP.htm  
-Tongji  palmprint database
-http://sse.tongji.edu.cn/linzhang/cr3dpalm/cr3dpalm.htm  
+PolyU multispectical palmprint database <br />
+https://www4.comp.polyu.edu.hk/~biometrics/MultispectralPalmprint/MSP.htm <br />
+Tongji  palmprint database <br />
+http://sse.tongji.edu.cn/linzhang/cr3dpalm/cr3dpalm.htm <br /> 
 
 
 ## Citation
