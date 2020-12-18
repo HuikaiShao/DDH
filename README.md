@@ -2,7 +2,7 @@
 This is the Tensorflow implementation of paper "Deep Distillation Hashing for Unconstrained Palmprint Recognition". 
 
 ## Environment
-Tensorflow 1.31.1  
+Tensorflow 1.13.1  
 python 3.5
 
 ## Training Model and Predicting
@@ -12,9 +12,9 @@ Download the pre-training vgg16.npy <br />
 
 ### Training:  
   
-Trainiing teacher: train_teacher.py  
-Training student: train_student.py  
-Training DDH: train_DDH.py  
+**Trainiing teacher**: train_teacher.py  
+**Training student**: train_student.py  
+**Training DDH**: train_DDH.py  
   
 ### Evaluate:  
   
