@@ -7,7 +7,7 @@ python 3.5
 
 ## Training Model and Predicting
 
-Download the pre-training vgg16.npy <br />
+Download the pre-trained vgg16.npy <br />
 (https://mega.nz/file/YU1FWJrA#O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM)
 
 ### Training:  
