@@ -32,20 +32,19 @@ http://sse.tongji.edu.cn/linzhang/cr3dpalm/cr3dpalm.htm <br />
 ## Citation
 
 ```
-@article{DBLP:journals/corr/abs-2004-03303,
+@article{DBLP:journals/tim/ShaoZD21,
   author    = {Huikai Shao and
                Dexing Zhong and
                Xuefeng Du},
-  title     = {Towards Efficient Unconstrained Palmprint Recognition via Deep Distillation
-               Hashing},
-  journal   = {CoRR},
-  volume    = {abs/2004.03303},
-  year      = {2020},
-  url       = {https://arxiv.org/abs/2004.03303},
-  archivePrefix = {arXiv},
-  eprint    = {2004.03303},
-  timestamp = {Wed, 08 Apr 2020 17:08:25 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-03303.bib},
+  title     = {Deep Distillation Hashing for Unconstrained Palmprint Recognition},
+  journal   = {{IEEE} Trans. Instrum. Meas.},
+  volume    = {70},
+  pages     = {1--13},
+  year      = {2021},
+  url       = {https://doi.org/10.1109/TIM.2021.3053991},
+  doi       = {10.1109/TIM.2021.3053991},
+  timestamp = {Tue, 02 Mar 2021 11:25:25 +0100},
+  biburl    = {https://dblp.org/rec/journals/tim/ShaoZD21.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
